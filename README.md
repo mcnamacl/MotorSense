@@ -1,6 +1,6 @@
 # MotorSense
 
-## Deface:
+## deface:
 This code anonymises the videos.
 
 ## put_files_in_folders:
