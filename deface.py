@@ -1,4 +1,3 @@
-import face_recognition
 import os, csv
 
 def read_in_maskless():
