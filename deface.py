@@ -1,7 +1,5 @@
 import face_recognition
-import cv2
-import numpy as np
-import os, re, csv
+import os, csv
 
 def read_in_maskless():
     maskless = []
