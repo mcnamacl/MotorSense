@@ -1,0 +1,19 @@
+Measure;Activity;Month;Level0;Level1;Level2;Month;Level0;Level1;Level2;Month;Level0;Level1;Level2;Month;Level0;Level1;Level2
+Distance;Jump Forward;23;1;5;10;31;10;30;60;47;30;60;76;53;60;76;91
+Distance;Jump High;23;1;2.5;5;45;5;8;11;;;;;;;;
+Iteration;Jump Side;59;2;4;6;;;;;;;;;;;;
+Iteration;Hop Left;47;1;3;5;;;;;;;;;;;;
+Iteration;Hop Right;47;1;3;5;;;;;;;;;;;;
+Distance;Jog Spot;19;1;1.5;3;29;3;6;9;37;6;9;13.7;;;;
+Iteration;RunStop;45;4;3;2;;;;;;;;;;;;
+Iteration;Gallop;51;2;4;6;;;;;;;;;;;;
+Time;RunPick;57;15;10;5;;;;;;;;;;;;
+Iteration;Skip;57;2;4;6;;;;;;;;;;;;
+Iteration;WalkLine;27;2;3;4;39;4;7;9;;;;;;;;
+Time;StandLeg;31;1;2;3;41;2;3;5;53;3;5;6;59;6;8;10
+Time;StandTiptoe;43;1;2;3;51;3;5;8;;;;;;;;
+Iteration;Kneel;13;2;4;6;;;;;;;;;;;;
+Iteration;Imitate;57;2;4;6;;;;;;;;;;;;
+Iteration;Situp;59;1;2;3;68;3;4;5;;;;;;;;
+Iteration;Pushup;72;2;4;8;;;;;;;;;;;;
+Iteration;Squat;31;1;3;5;;;;;;;;;;;;
